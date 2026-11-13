@@ -61,8 +61,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jaxcervantes/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="armandoxicoc12@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/armando.lncr21/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaxcervantes/"><img src="https://img.shields.io/badge/Instagram-Armando%20X.%20Cervantes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="armandoxicoc12@gmail.com"><img src="https://img.shields.io/badge/Gmail-Armando%20X.%20Cervantes-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.instagram.com/armando.lncr21/"><img src="https://img.shields.io/badge/LinkedIn-Armando%20X.%20Cervantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
