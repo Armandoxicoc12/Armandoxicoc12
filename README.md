@@ -1,8 +1,7 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Hey there! I'm Armando X. Cervantes -->
 
 ### 👨🏻‍💻 Sobre mí
 👨🏻‍💻 Soy **Java & Salesforce Developer** con más de 5 años de experiencia en el desarrollo de soluciones tecnológicas, principalmente en proyectos del sector bancario y empresas de consultoría.
