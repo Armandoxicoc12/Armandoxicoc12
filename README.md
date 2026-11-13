@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Armando X. Cervantes</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Armando X. Cervantes -->
 
@@ -61,8 +61,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jaxcervantes/"><img src="https://img.shields.io/badge/Instagram-Armando%20X.%20Cervantes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/armando.lncr21/)"><img src="https://img.shields.io/badge/Instagram-Armando%20X.%20Cervantes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="armandoxicoc12@gmail.com"><img src="https://img.shields.io/badge/Gmail-Armando%20X.%20Cervantes-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.instagram.com/armando.lncr21/"><img src="https://img.shields.io/badge/LinkedIn-Armando%20X.%20Cervantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/jaxcervantes/"><img src="https://img.shields.io/badge/LinkedIn-Armando%20X.%20Cervantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
