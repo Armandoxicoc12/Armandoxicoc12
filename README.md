@@ -20,9 +20,6 @@
 🤝 Me gusta compartir ideas, aprender de otras personas y colaborar en proyectos interesantes.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-
-
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
